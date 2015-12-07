@@ -1,35 +1,32 @@
 # canvas-nest.js
-A nest backgroud of website draw on canvas.
+一个超赞的网页背景效果.
 
 
-## feature
+## 特征
 
- - do not depend on jQuery or other javascript framework.
- - very light, only 1.59kb. can be smaller after gzip.
- - so easy to use, even you are not a web developer.
+ - 不依赖JQuery或任何javascript.
+ - 非常小,只有 1.59kb. 经过gzip后更小.
+ - 使用非常简单,即使你不是web人员.
 
-## usage
+## 用法
 
-so eazy that I do not want write the chapter.
 
     <script type="text/javascript" src="canvas-nest.js"></script>
 
 then ok!
 
-## preview 
+## 效果 
 
-1. [OnlineTool: http://www.atool.org/](http://www.atool.org/)
-
-if you has used this project, pls let me know, I can add your website on.
+1. [查看: http://www.atool.org/](http://www.atool.org/)
 
 
 ![screenshot](screenshot.png)
 
 
-## other
+## 其他
 
- - the code is from other website, is not writed by myself. I just do some code on it.
- - I search the github, but can not find the code.
- - if the code is piracy of yours, pls let me know.
+ - 代码不是我写的，这只是我Fork的一份
+ - 源地址：https://github.com/hustcc/canvas-nest.js
+ - 
 
 
